@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Lobster&display=swap');
+
+header {
+    background-image: url('../img/92113087_1268484086683585_4950749836493193216_o.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    }
+.text
+{
+    font-family: "Lobster", cursive;
+    font-weight: 400;
+}
+
+.card-text
+{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+.card-title
+{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+
+.footer-text
+{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+.nav-link
+{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    color: white;
+
+}
+
+.nabvar-text {
+    font-family: "Lobster", cursive;
+    font-weight: 400;
+    
+   }
+
+.nabvar-text {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
+  z-index: 10;
+ }
+ .btn{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #17A2B8;
+    border-top: 1px solid #17A2B8;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+  }
+  .fab{
+    color:white;
+    
+}
